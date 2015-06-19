@@ -5,7 +5,7 @@
 #
 # R v. 3.1.2
 #
-# The functions below allows you store a matrix as a "special" matrix and return and cache its inverse
+# The functions below allow you to store a matrix as a "special" matrix and return and cache its inverse
 #
 ##===========================================================================================================
 
